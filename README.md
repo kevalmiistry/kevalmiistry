@@ -1,7 +1,7 @@
 [![wakatime](https://wakatime.com/badge/user/5d3ef97b-100a-42ed-9510-5844c1b07323.svg)](https://wakatime.com/@5d3ef97b-100a-42ed-9510-5844c1b07323)
 # Hello There! I'm Keval 👋  
 
-And I'm just a guy who's into programming, more specifically web development. I've been working in the web development space for more than 2 years individually and for 1 year professionally. My strongest point is frontend, and (yeah, you guessed it right!) I specialize in React and its ecosystem. I also take part into backend tasks from time to time, and in 2024, my goal is to learn more about backend development that scales 🚀.
+And I'm just a guy who's into programming, more specifically web development. I've been working in the web development space for more than 2 years individually and for 1 year professionally. My strongest point is frontend, and (yeah, you guessed it right!) I specialize in React and its ecosystem. I also take part in backend tasks from time to time, and in 2024, one of my goals is to learn more about backend development that scales. Also, I'm a big developer experience and tooling enthusiast; I love seeing low-level languages like Rust and Go penetrating this space.
 
 - 🌍  I'm based in India 🇮🇳 _(tunak tunak!)_
 - 🖥️  See my portfolio at [www.kevalmiistry.me](https://www.kevalmiistry.me/)
