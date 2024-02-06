@@ -32,7 +32,7 @@ And I'm just a guy who's into programming, more specifically web development. I'
 </p>
 
 
-### My wakatime commit history (2023)
+### My commit history by Wakatime 
 ![](https://wakatime.com/share/@KevalMiistry/c0598720-bc63-4d5a-9d8e-f97e33423890.svg)
 
 
