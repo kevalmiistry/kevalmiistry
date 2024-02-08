@@ -3,7 +3,7 @@
 
 And I'm just a guy who's into programming, more specifically web development. I've been working in the web development space for more than 2 years individually and for 1 year professionally. My strongest point is frontend, and (yeah, you guessed it right!) I specialize in React and its ecosystem. I also take part in backend tasks from time to time, and in 2024, one of my goals is to learn more about backend development that scales. Also, I'm a big developer experience and tooling enthusiast; I love seeing low-level languages like Rust and Go penetrating this space.
 
-- 🌍  I'm based in India 🇮🇳 _(tunak tunak!)_
+- 🌍  I'm based in India 🇮🇳 
 - 🖥️  See my portfolio at [www.kevalmiistry.me](https://www.kevalmiistry.me/)
 - ✉️  You can contact me at [kevalpm@gmail.com](mailto:kevalpm@gmail.com)
 - 🚀  I'm currently working at this start-up: **CultureX Entertainment Pvt. Lmt.**
@@ -32,7 +32,7 @@ And I'm just a guy who's into programming, more specifically web development. I'
 </p>
 
 
-### My commit history by Wakatime 
+### My coding activity by Wakatime 
 ![](https://wakatime.com/share/@KevalMiistry/c0598720-bc63-4d5a-9d8e-f97e33423890.svg)
 
 
