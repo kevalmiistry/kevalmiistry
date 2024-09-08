@@ -4,7 +4,7 @@
 And I'm just a guy who's into web development 🕷. I've been working in the web development space for more than 2 years individually and for 1 year professionally. My strong point is frontend, and I excel in the frontend development. I specialize in React and its ecosystem. I also do backend development from time to time, and in 2024, one of my goals is to learn more about backend development that scales. Also, I'm a big developer experience and tooling enthusiast :)
 
 - 🌍  I'm based in India 🇮🇳 
-- 🖥️  See my portfolio at [www.kevalmiistry.me](https://www.kevalmiistry.me/)
+- 🖥️  See my portfolio at [www.kevalmiistry.me](https://www.kevalmiistry.com)
 - ✉️  You can contact me at [kevalpm@gmail.com](mailto:kevalpm@gmail.com)
 - 🚀  I'm currently working at this start-up: **CultureX Entertainment Pvt. Lmt.**
 
