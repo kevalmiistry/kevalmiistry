@@ -1,7 +1,7 @@
 [![wakatime](https://wakatime.com/badge/user/5d3ef97b-100a-42ed-9510-5844c1b07323.svg)](https://wakatime.com/@5d3ef97b-100a-42ed-9510-5844c1b07323)
 # Hello There! I'm Keval 👋  
 
-And I'm a passionate web developer🕷 with over 3 years of individual experience and more than 1.5 years of professional work experience building web applications that are clean, robust and most importantly reliable. My sweet spot is Frontend and I'm all about React and its ecosystem.
+And I'm a passionate web developer🕷 with over **3 years** of individual experience and more than **2 years** of professional work experience building web applications that are clean, robust and most importantly reliable. My sweet spot is Frontend and I'm all about React and its ecosystem.
 
 I specialize in building complex dashboards involving complex data flows. While the frontend is my forte, I also have handful of experience working with backend stuff.
 
