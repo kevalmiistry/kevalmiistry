@@ -1,9 +1,9 @@
 [![wakatime](https://wakatime.com/badge/user/5d3ef97b-100a-42ed-9510-5844c1b07323.svg)](https://wakatime.com/@5d3ef97b-100a-42ed-9510-5844c1b07323)
 # Hello There! I'm Keval 👋  
 
-And I'm a passionate web developer🕷 with over **3+ years** of professional work experience building web applications that are clean, robust and most importantly reliable. My sweet spot is Frontend and I'm all about React and its ecosystem.
+A passionate software engineer with over **3+ years** of professional work experience building web applications that are clean, robust and most importantly reliable. My sweet spot is Frontend and I'm all about React and its ecosystem.
 
-I specialize in building complex dashboards involving complex data flows. While the frontend is my forte, I also have handful of experience working with backend stuff.
+I specialize in building complex b2b saas products involving complex data flows & business logic. While the frontend is my forte, I also have handful of experience working with backend.
 
 If you're looking for someone who can take on frontend challenges from day one and pitch in on backend when needed, you have found the right person.
 Let’s connect at [kevalpm@gmail.com](mailto:kevalpm@gmail.com)
@@ -11,7 +11,6 @@ Let’s connect at [kevalpm@gmail.com](mailto:kevalpm@gmail.com)
 - 🌍  I'm based in India 🇮🇳 
 - 🖥️  See my portfolio at [www.kevalmiistry.com](https://www.kevalmiistry.com)
 - ✉️  You can contact me at [kevalpm@gmail.com](mailto:kevalpm@gmail.com)
-- 🚀  I'm currently working at this start-up: **CultureX Entertainment Pvt. Lmt.**
 
 ### Skills
 
